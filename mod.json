@@ -1,0 +1,13 @@
+{
+	"geode": "2.0.0-beta.22",
+	"gd": {
+        	"android": "2.205",
+        	"win": "2.204"
+    	},
+	"version": "v1.0.0",
+	"id": "nytelyte.follow_player",
+	"name": "Follow Player",
+	"developer": "NyteLyte",
+	"description": "Bring back the missing Follow Player option in the editor pause menu.",
+	"repository": "https://github.com/nytelytee/geode-follow-player"
+}
